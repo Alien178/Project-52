@@ -5,6 +5,10 @@
      /* align-items: stretch; */
 }
 
+.origami:hover {
+     transform: scale(1.2);
+}
+
 .chameleon{
      border: 4px;
      color: greenyellow;
